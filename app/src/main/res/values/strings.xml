@@ -10,5 +10,5 @@
     <string name="btn_sort_pop">Sort by Popularity</string>
     <string name="btn_sort_rating">Sort by Highest Rated</string>
     <string name="btn_sort_favorites">Sort by Favorites</string>
-    <string name="picasso_api_key">74696b98a7c2c21e494c86e2da61f2f6</string>
+    <string name="picasso_api_key">Place API key here</string>
 </resources>
